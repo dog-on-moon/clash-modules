@@ -1,0 +1,2 @@
+class QuestDereferenceException(AttributeError):
+    pass
